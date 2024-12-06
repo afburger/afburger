@@ -1,7 +1,7 @@
 # André Felipe Bürger
 ## Bem-vindo ao meu perfil do GitHub!
 
-- 🛠️ Tech Lead | Desenvolvedor Full-Stack na Pública Tecnologia.
+- 🛠️ Tech Lead | Desenvolvedor Full-Stack na [Pública Tecnologia](https://publicatecnologia.com.br/).
 - 👨🏼‍🏫 Professor na [FURB](https://www.furb.br/pt), lecionando as disciplinas de Algoritmos e Estrutura de Dados, bem como Introdução à Programação.
 - 🌱 Atualmente estou me aprofundando em Angular
 - 📫 Entre em contato comigo por e-mail: andre@iburger.com.br
@@ -12,10 +12,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="32" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="32" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="32" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="32" height="32" /> 
 
-<!--
+
 <div>
 <a href="https://github.com/afburger">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afburger&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=afburger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
--->
+
