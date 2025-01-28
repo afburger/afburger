@@ -2,7 +2,7 @@
 ## Bem-vindo ao meu perfil do GitHub!
 
 - 🛠️ Tech Lead | Desenvolvedor Full-Stack na [Pública Tecnologia](https://publicatecnologia.com.br/).
-- 👨🏼‍🏫 Professor na [FURB](https://www.furb.br/pt), lecionando as disciplinas de Algoritmos e Estrutura de Dados, bem como Introdução à Programação.
+- 👨🏼‍🏫 Professor na [FURB](https://www.furb.br/pt), lecionando as disciplinas de Algoritmos e Estrutura de Dados, Introdução à Programação e Programação Orientada à Objetos.
 - 🌱 Atualmente estou me aprofundando em Angular
 - 📫 Entre em contato comigo por e-mail: andre@iburger.com.br
 - 😄 Apelido: Pudim 🍮
