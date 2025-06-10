@@ -1,10 +1,12 @@
 # André Felipe Bürger
 ## Bem-vindo ao meu perfil do GitHub!
 
-- 🛠️ Tech Lead | Desenvolvedor Full-Stack na [Pública Tecnologia](https://publicatecnologia.com.br/).
-- 👨🏼‍🏫 Professor na [FURB](https://www.furb.br/pt), lecionando as disciplinas de Algoritmos e Estrutura de Dados, Introdução à Programação e Programação Orientada à Objetos.
+- 🛠️ Tech Lead | Desenvolvedor Full-Stack na Pública Tecnologia.
+- 👨🏼‍🏫 Professor na FURB, lecionando as disciplinas de Algoritmos e Estrutura de Dados, Introdução à Programação e Programação Orientada à Objetos.
 - 🌱 Atualmente estou me aprofundando em Angular
-- 📫 Entre em contato comigo por e-mail: andre@iburger.com.br
+- 📫 Contato:
+  - 🎓 Alunos da FURB: afburger@furb.br
+  - 💼 Contatos profissionais: andre@iburger.com.br
 - 😄 Apelido: Pudim 🍮
 
 ## Tecnologias e Ferramentas
