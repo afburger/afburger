@@ -17,7 +17,7 @@
 
 <div>
 <a href="https://github.com/afburger">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afburger&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afburger&layout=compact&langs_count=8&theme=github_dark"/>
 <div>
 <!--
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=afburger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
