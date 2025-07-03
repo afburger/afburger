@@ -3,7 +3,7 @@
 
 - 🛠️ Tech Lead | Desenvolvedor Full-Stack na [Pública Tecnologia](https://publicatecnologia.com.br/).
 - 👨🏼‍🏫 Professor na [FURB](https://www.furb.br/pt), atuando no [Departamento de Sistemas e Computação (DSC)](https://dsc.furb.br/) nas disciplinas de Algoritmos e Estrutura de Dados, Introdução à Programação e Programação Orientada a Objetos.
-- 🌱 Atualmente estou me aprofundando em Angular
+<!--- 🌱 Atualmente estou me aprofundando em Angular-->
 - 📫 Contato:
   - 🎓 Alunos da FURB: afburger@furb.br
   - 💼 Contatos profissionais: andre@iburger.com.br
@@ -19,6 +19,4 @@
 <a href="https://github.com/afburger">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afburger&layout=compact&langs_count=8&theme=github_dark"/>
 <div>
-<!--
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=afburger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
--->
+
