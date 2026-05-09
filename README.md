@@ -10,4 +10,4 @@
 - 😄 Apelido: Pudim 🍮
 
 ## Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,idea,postgres,git,postman,jenkins,figma,wordpress,ps,pr,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,postman,jenkins,figma,wordpress,ps,pr,ai)](https://skillicons.dev)
